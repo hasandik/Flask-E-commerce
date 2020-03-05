@@ -11,7 +11,7 @@ Simple E-commerce website using Flask for academic purpose only
 
 # How to run
 1. `pip install flask-sqlalchemy`
-2. `cd (FilePath`
+2. `cd (FilePath)`
 3. `python app.py`
 
 # How to get admin authority
